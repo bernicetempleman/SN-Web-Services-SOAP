@@ -5,6 +5,9 @@ SOAP
 - Rest uses endpoint and method
 - Soap uses wsdl and transform map
 
+![image](https://user-images.githubusercontent.com/12488769/147887602-b2a36403-3309-4953-9f9f-aed5011a70a7.png)
+
+
 ## On receiver/ publisher/ create webservice// create inbound web service
 - Web service-> inbound->create new
 - Label: demo SOAP inci
@@ -58,3 +61,4 @@ SOAP
 -     var responseBody = response.getBody();
 -     var status = response.getStatusCode();
 
+![image](https://user-images.githubusercontent.com/12488769/147887684-77c0ae18-a0d2-4515-9b0e-6473ee614bc4.png)
